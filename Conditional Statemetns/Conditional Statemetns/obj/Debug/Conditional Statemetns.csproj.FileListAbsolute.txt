@@ -1,0 +1,7 @@
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\Conditional Statemetns\Conditional Statemetns\obj\Debug\Conditional Statemetns.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\Conditional Statemetns\Conditional Statemetns\obj\Debug\Conditional Statemetns.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\Conditional Statemetns\Conditional Statemetns\bin\Debug\Conditional Statemetns.exe.config
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\Conditional Statemetns\Conditional Statemetns\bin\Debug\Conditional Statemetns.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\Conditional Statemetns\Conditional Statemetns\bin\Debug\Conditional Statemetns.pdb
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\Conditional Statemetns\Conditional Statemetns\obj\Debug\Conditional Statemetns.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\Conditional Statemetns\Conditional Statemetns\obj\Debug\Conditional Statemetns.pdb
