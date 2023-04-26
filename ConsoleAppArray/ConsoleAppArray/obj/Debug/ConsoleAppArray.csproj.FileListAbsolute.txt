@@ -1,0 +1,7 @@
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe.config
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.pdb
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.pdb

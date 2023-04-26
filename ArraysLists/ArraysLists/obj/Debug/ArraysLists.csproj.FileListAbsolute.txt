@@ -1,0 +1,7 @@
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ArraysLists\ArraysLists\bin\Debug\ArraysLists.exe.config
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ArraysLists\ArraysLists\bin\Debug\ArraysLists.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ArraysLists\ArraysLists\bin\Debug\ArraysLists.pdb
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ArraysLists\ArraysLists\obj\Debug\ArraysLists.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ArraysLists\ArraysLists\obj\Debug\ArraysLists.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ArraysLists\ArraysLists\obj\Debug\ArraysLists.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ArraysLists\ArraysLists\obj\Debug\ArraysLists.pdb
