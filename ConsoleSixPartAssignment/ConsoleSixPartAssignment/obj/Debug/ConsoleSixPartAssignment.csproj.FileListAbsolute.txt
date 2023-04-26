@@ -1,0 +1,7 @@
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConsoleSixPartAssignment\ConsoleSixPartAssignment\obj\Debug\ConsoleSixPartAssignment.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConsoleSixPartAssignment\ConsoleSixPartAssignment\obj\Debug\ConsoleSixPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConsoleSixPartAssignment\ConsoleSixPartAssignment\bin\Debug\ConsoleSixPartAssignment.exe.config
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConsoleSixPartAssignment\ConsoleSixPartAssignment\bin\Debug\ConsoleSixPartAssignment.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConsoleSixPartAssignment\ConsoleSixPartAssignment\bin\Debug\ConsoleSixPartAssignment.pdb
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConsoleSixPartAssignment\ConsoleSixPartAssignment\obj\Debug\ConsoleSixPartAssignment.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConsoleSixPartAssignment\ConsoleSixPartAssignment\obj\Debug\ConsoleSixPartAssignment.pdb
