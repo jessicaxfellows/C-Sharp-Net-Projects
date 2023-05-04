@@ -16,6 +16,10 @@ namespace AbstractClass
             example.LastName = "Student";
             example.SayName();
 
+            //create an object of type Iquit and call Quit() on it - interface thru employee class
+            IQuittable example2 = new Employee();
+            example2.Quit();
+
             Console.ReadLine();
         }
     }
