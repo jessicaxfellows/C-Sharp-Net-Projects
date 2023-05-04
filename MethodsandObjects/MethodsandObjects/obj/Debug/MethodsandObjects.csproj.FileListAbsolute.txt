@@ -1,0 +1,7 @@
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\MethodsandObjects\MethodsandObjects\bin\Debug\MethodsandObjects.exe.config
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\MethodsandObjects\MethodsandObjects\bin\Debug\MethodsandObjects.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\MethodsandObjects\MethodsandObjects\bin\Debug\MethodsandObjects.pdb
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\MethodsandObjects\MethodsandObjects\obj\Debug\MethodsandObjects.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\MethodsandObjects\MethodsandObjects\obj\Debug\MethodsandObjects.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\MethodsandObjects\MethodsandObjects\obj\Debug\MethodsandObjects.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\MethodsandObjects\MethodsandObjects\obj\Debug\MethodsandObjects.pdb
