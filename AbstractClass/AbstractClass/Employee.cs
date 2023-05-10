@@ -7,50 +7,52 @@ using System.Threading.Tasks;
 namespace AbstractClass
 {
     //inherit from person class and IQuit interface
-    public class Employee : Person, IQuittable
+    public class Employee<T> //: Person, IQuittable
     {
-        public override void SayName()
-        {
-            Console.WriteLine("Name: " + FirstName + " " + LastName);
-        }
+        public List<T> things { get; set; } //employee takes generic type param, add prop called things with generic list
 
-        //implement quit method 
-        public void Quit()
-        {
-            Console.WriteLine("I quit!");
-        }
+        //public override void SayName()
+        //{
+        //    Console.WriteLine("Name: " + FirstName + " " + LastName);
+        //}
 
-        public int ID { get; set; } //add ID prop
+        ////implement quit method 
+        //public void Quit()
+        //{
+        //    Console.WriteLine("I quit!");
+        //}
 
-        //overload == (and it's pair)
-        public static bool operator ==(Employee newEmp1, Employee newEmp2)
-        {
-            if (newEmp1.ID == newEmp2.ID)
-            {
-                Console.WriteLine("The IDs are equal.");
-                return true;
-            }
-            else
-            {
-                Console.WriteLine("The IDs are not equal.");
-                return false;
-            }
-        }
+        //public int ID { get; set; } //add ID prop
 
-        public static bool operator !=(Employee newEmp1, Employee newEmp2)
-        {
-            if (newEmp1.ID != newEmp2.ID)
-            {
-                Console.WriteLine("The IDs are not equal.");
-                return false;
-            }
-            else
-            {
-                Console.WriteLine("The IDs are equal.");
-                return true;
-            }
+        ////overload == (and it's pair)
+        //public static bool operator ==(Employee newEmp1, Employee newEmp2)
+        //{
+        //    if (newEmp1.ID == newEmp2.ID)
+        //    {
+        //        Console.WriteLine("The IDs are equal.");
+        //        return true;
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("The IDs are not equal.");
+        //        return false;
+        //    }
+        //}
+
+        //public static bool operator !=(Employee newEmp1, Employee newEmp2)
+        //{
+        //    if (newEmp1.ID != newEmp2.ID)
+        //    {
+        //        Console.WriteLine("The IDs are not equal.");
+        //        return false;
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("The IDs are equal.");
+        //        return true;
+        //    }
 
 
-        }
+        //}
     }
     }
