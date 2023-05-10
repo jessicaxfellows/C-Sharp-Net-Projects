@@ -20,6 +20,14 @@ namespace AbstractClass
             IQuittable example2 = new Employee();
             example2.Quit();
 
+            //instantiate two objects of emp and assign values to props, then compare with overloaded 
+            Employee example3 = new Employee();
+            Employee example4 = new Employee();
+            example3.ID = 123;
+            example4.ID = 456;
+            bool result = example3 == example4;
+
+
             Console.ReadLine();
         }
     }
