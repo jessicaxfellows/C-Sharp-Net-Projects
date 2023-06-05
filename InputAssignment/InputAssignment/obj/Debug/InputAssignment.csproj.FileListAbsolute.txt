@@ -1,0 +1,7 @@
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\InputAssignment\InputAssignment\bin\Debug\InputAssignment.exe.config
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\InputAssignment\InputAssignment\bin\Debug\InputAssignment.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\InputAssignment\InputAssignment\bin\Debug\InputAssignment.pdb
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\InputAssignment\InputAssignment\obj\Debug\InputAssignment.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\InputAssignment\InputAssignment\obj\Debug\InputAssignment.pdb

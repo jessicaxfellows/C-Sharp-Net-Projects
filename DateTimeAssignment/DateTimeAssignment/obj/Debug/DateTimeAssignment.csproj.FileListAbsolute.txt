@@ -1,0 +1,6 @@
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.exe.config
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.pdb
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.pdb
