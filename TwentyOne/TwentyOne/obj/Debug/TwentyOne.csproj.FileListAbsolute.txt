@@ -5,3 +5,6 @@ C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\TwentyOne\TwentyOn
 C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete

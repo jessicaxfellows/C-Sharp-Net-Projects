@@ -1,0 +1,7 @@
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe.config
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.pdb
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.pdb
