@@ -1,0 +1,12 @@
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\CodeFIrst\CodeFIrst\bin\Debug\CodeFIrst.exe.config
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\CodeFIrst\CodeFIrst\bin\Debug\CodeFIrst.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\CodeFIrst\CodeFIrst\bin\Debug\CodeFIrst.pdb
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\CodeFIrst\CodeFIrst\bin\Debug\EntityFramework.dll
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\CodeFIrst\CodeFIrst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\CodeFIrst\CodeFIrst\bin\Debug\EntityFramework.xml
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\CodeFIrst\CodeFIrst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\CodeFIrst\CodeFIrst\obj\Debug\CodeFIrst.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\CodeFIrst\CodeFIrst\obj\Debug\CodeFIrst.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\CodeFIrst\CodeFIrst\obj\Debug\CodeFIrst.csproj.CopyComplete
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\CodeFIrst\CodeFIrst\obj\Debug\CodeFIrst.exe
+C:\Users\jessi\OneDrive\Documents\GitHub\C-Sharp-Net-Projects\CodeFIrst\CodeFIrst\obj\Debug\CodeFIrst.pdb
